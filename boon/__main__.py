@@ -45,7 +45,7 @@ URLs = ["Instagram-https://instagram.com/{injex}", "Facebook-https://facebook.co
 
 session = requests.Session()
 
-print(run, f'Finding {username} on {len(URLs)} platfroms...'+'\n')
+print(run, f'Finding {username} on {len(URLs)} platforms...'+'\n')
 
 class scanner:
     def requester(url, username):
