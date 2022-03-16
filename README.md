@@ -24,7 +24,7 @@ $ boon john
 
             (By Nefcore)
 
-[*] Finding john on 45 platfroms...
+[*] Finding john on 45 platforms...
 
 [+] YouTube: https://www.youtube.com/c/john
 [+] Dailymotion: https://www.dailymotion.com/john
